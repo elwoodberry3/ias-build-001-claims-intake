@@ -2,5 +2,7 @@
   <img src="assets/images/thumbnail.png" alt="Built, not pitched. Watch the full workflow run.">
 </a>  
 
-# Claims-Intake
-Agentic claims intake system: n8n orchestrates document parsing, RAG-grounded coverage lookup, multi-agent fraud cross-check, and a human-in-the-loop escalation gate when confidence score drops below threshold.
+# Agentic Claims Intake & Triage
+### Banking, Finance, FinTech & Insurance  
+Upload a claim, watch the agent extract entities, run RAG-grounded coverage lookup, cross-check for fraud, and escalate to a human when confidence drops.  
+[See Full Build](https://adbyrdllc.wixstudio.com/iautomateshit/demos) 
