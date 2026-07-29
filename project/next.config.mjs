@@ -1,8 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Demo pages are fully static — no server runtime needed.
-  // Vercel serves the exported output from its edge network.
   output: "export",
+  reactStrictMode: true,
+  images: { unoptimized: true },
+  trailingSlash: true,
 };
 
 export default nextConfig;
